@@ -1,0 +1,20 @@
+
+.closet{
+    border: 2px solid rgba(38, 176, 223, 0.315);
+    padding: 10px 10px;
+    background-color: lightskyblue;
+    border-radius: 8px;
+}
+
+.closet__shoes{
+    margin-top: 10px;
+    background-color: rgb(223, 221, 221);
+    border-radius: 8px;
+}
+
+.closet--shoes--item{
+    font-weight: bold;
+    color: rgb(184, 133, 39);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1%;
+}
